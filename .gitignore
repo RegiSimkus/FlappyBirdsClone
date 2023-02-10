@@ -7,6 +7,10 @@
 *.o
 *.obj
 
+# Garbage folders
+x64/
+\.vs/
+
 # Precompiled Headers
 *.gch
 *.pch
